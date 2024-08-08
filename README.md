@@ -4,20 +4,11 @@
  <p/>
 <h1 align="center">Hola! Mi nombre es Fernando Ariel Niscola<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-Soy Fernando Ariel Niscola, soy Ingenieron en Sistemas de Información  💻. Estuve trabajando durante 6 años como SysAdmin y desarrollando sistemas para la misma empresa. Decidi dedicarme de lleno en la programación ya que es lo que me apasiona dentro del ámbito tech. Actualmente trabajo como Desarrollador Backend en IT Resourse. 
-
-### ✔️ Actualmente estoy aprendiendo
-- Typescript
-- React 
+Soy Fernando Ariel Niscola, soy Ingenieron en Sistemas de Información  💻. Actualmente trabajo como Desarrollador Backend en Ulusoft. 
 
 ### 😍 Lo que me gusta:
 - Me gustan los desafios, resolver problemas, trabajar en conjunto y 
 - Fuera del ámbito laboral me gustan los deportes, cine, videojuegos y salidas con amigos.
-
-### 💡 Mis metas para el 2023:
-- Darle valor agregado a los productos que participe.
-- Aprender Python y especializarme en otro lenguaje.
-- Adquirir nuevas habilidades
 
 ### ⚡ Cursos relevantes
 - Programación Backend - Coderhouse - 2022
