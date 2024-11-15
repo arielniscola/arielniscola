@@ -7,7 +7,7 @@
 Soy Fernando Ariel Niscola, soy Ingenieron en Sistemas de Información  💻. Actualmente trabajo como Desarrollador Backend en Ulusoft. 
 
 ### 😍 Lo que me gusta:
-- Me gustan los desafios, resolver problemas, trabajar en conjunto y 
+- Me gustan los desafios, resolver problemas, trabajar en equipo y aprender
 - Fuera del ámbito laboral me gustan los deportes, cine, videojuegos y salidas con amigos.
 
 ### ⚡ Cursos relevantes
@@ -16,7 +16,7 @@ Soy Fernando Ariel Niscola, soy Ingenieron en Sistemas de Información  💻. Ac
 - Crear una red social, MEAN STACK - Udemy - 2018
 
 ### 🛠 Estoy interesando en:
-- Aplicaciones Web, Webservices, Microservicios, Metodoligías Ágiles.
+- Aplicaciones Web, Webservices, Microservicios, Serveless.
 
 🤝 &nbsp; No dudes en contactarme:
 
